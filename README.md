@@ -1,2 +1,2 @@
 # PhaserGame
-Making a web game with Phaser
+Making a web game using Phaser
